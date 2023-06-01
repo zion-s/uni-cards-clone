@@ -1,2 +1,3 @@
 # uni-cards-clone
-Created with CodeSandbox
+
+Clone of https://www.uni.cards/
